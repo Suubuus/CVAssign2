@@ -1,0 +1,12 @@
+Model          deit-tiny                               dinov2-small    efficientnetb0          resnet18
+Image                                                                                                  
+1.jpg         boat(0.99)                                 boat(0.75)        boat(1.00)        boat(1.00)
+10.jpg  motorcycle(0.98)                           motorcycle(0.66)  motorcycle(1.00)  motorcycle(1.00)
+2.jpg   motorcycle(0.97)                           motorcycle(0.60)  motorcycle(1.00)  motorcycle(0.94)
+3.jpg        cycle(0.99)  motorcycle(0.41); cycle(0.31); boat(0.15)       cycle(1.00)       cycle(1.00)
+4.jpg        truck(0.76)         boat(0.38); truck(0.37); bus(0.17)         bus(0.65)         bus(0.86)
+5.jpg        truck(0.90)         boat(0.45); truck(0.33); bus(0.19)       truck(0.78)       truck(0.99)
+6.jpg         boat(0.99)                                 boat(0.96)        boat(1.00)        boat(0.99)
+7.jpg         boat(0.99)                                 boat(0.97)        boat(1.00)        boat(1.00)
+8.jpg          bus(0.98)                                 boat(0.79)         bus(0.99)         bus(1.00)
+9.jpg          bus(0.98)   motorcycle(0.50); truck(0.39); bus(0.24)         bus(0.99)         bus(1.00)
